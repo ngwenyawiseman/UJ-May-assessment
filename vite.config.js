@@ -5,7 +5,7 @@ export default {
   base : '/responsive_cv/',
   plugins: [
     handlebars({
-      context: data.json, // replace the curly brackets with data.json
+      context: data, 
     }),
   ],
 };
