@@ -1,38 +1,41 @@
 {
-    "user" : {
-        "fullName" : "",
-        "photo" : "",
-        "phone" : "",
-        "email" : ""
+    "user": {
+        "fullName": "Thulebona Wiseman Ngwenya",
+        "photo": "./Grad.jpg",
+        "phone": "079 949 6503",
+        "email": "ngwenyawisema04@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/thulebona-ngwenya-074261201/",
     },
-    "education" : {
-        "institutionName" : "",
-        "photo" : "",
-        "description" : ""
+
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        },
-        {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
+    "summary": {
+        "description": "Experienced in Business Information Systems and leadership, I possess skills in agile development, full-stack web development, and machine learning. Committed to community engagements and mentorships, I bring advanced analytical thinking and computer literacy into your organization. I am eager to leverage these abilities to drive your organizational success. Additionally, I have utilized various tools such as Slack, Zoom, and Microsoft Teams for communication and presentation purposes in both academic and work experiences, showcasing my adaptability and proficiency in modern communication technologies."
     },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        },
-        {
-            "name" : "",
-            "description" : ""
-        }
+    "experience": {
+        "job1": "Work Readiness Program",
+        "place": "University of Johannesburg and Accenture",
+        "year": "March 2024 - Current"
+    },
+    "skills": [
+        "Research Skills",
+        "Analytical Skills",
+        "Advanced Data Analytical Skills",
+        "Machine Learning Using Python",
+        "HTML and CSS To Create",
+        "Web Responsive Websites",
+        "Professional Ethics"
+    ],
+    "academic-qualifications": {
+        "course": "BCom Honours in Information Management",
+        "year": "Feb 2023 - Nov 2023",
+        "description1": "Electronic Records Management, Web and Intranet Management, Strategic Information Management, Management Information Systems, Research Methodology, Business Intelligence and Competitive Intelligence."
+    },
+    "certifications": [
+        "Peer Mentoring Volunteering Certificate",
+        "African Insight UJ online short Course"
+    ],
+    "references": [
+        "Mr Wole Akinola, UJ and Accenture Collaboration - Work Readiness Program Coordinator and Lecturer",
+        "Dr Sthembiso Khumalo, University of Johannesburg - My Research Supervisor and Lecturer"
     ]
 }
