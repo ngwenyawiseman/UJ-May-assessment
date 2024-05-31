@@ -4,18 +4,20 @@
         "photo": "./Grad.jpg",
         "phone": "079 949 6503",
         "email": "ngwenyawisema04@gmail.com",
-        "linkedin": "https://www.linkedin.com/in/thulebona-ngwenya-074261201/",
+        "linkedin": "https://www.linkedin.com/in/thulebona-ngwenya-074261201/"
     },
 
-    },
+
     "summary": {
         "description": "Experienced in Business Information Systems and leadership, I possess skills in agile development, full-stack web development, and machine learning. Committed to community engagements and mentorships, I bring advanced analytical thinking and computer literacy into your organization. I am eager to leverage these abilities to drive your organizational success. Additionally, I have utilized various tools such as Slack, Zoom, and Microsoft Teams for communication and presentation purposes in both academic and work experiences, showcasing my adaptability and proficiency in modern communication technologies."
     },
+
     "experience": {
         "job1": "Work Readiness Program",
         "place": "University of Johannesburg and Accenture",
         "year": "March 2024 - Current"
     },
+
     "skills": [
         "Research Skills",
         "Analytical Skills",
@@ -25,6 +27,7 @@
         "Web Responsive Websites",
         "Professional Ethics"
     ],
+
     "academic-qualifications": {
         "course": "BCom Honours in Information Management",
         "year": "Feb 2023 - Nov 2023",
